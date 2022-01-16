@@ -1,0 +1,7 @@
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\bin\Debug\cuestion 4.exe.config
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\bin\Debug\cuestion 4.exe
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\bin\Debug\cuestion 4.pdb
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\obj\Debug\cuestion 4.csprojAssemblyReference.cache
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\obj\Debug\cuestion 4.csproj.CoreCompileInputs.cache
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\obj\Debug\cuestion 4.exe
+D:\Documentos\GITI\4º\2º cuatri\Lenguajes de programación\cuestiones\cuestion 4\cuestion 4\obj\Debug\cuestion 4.pdb
